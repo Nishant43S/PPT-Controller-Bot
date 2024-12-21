@@ -14,3 +14,65 @@ Key Features:
 - "Previous": Returns to the previous slide.
 - "Right": Navigates horizontally (if applicable).
 - "Left": Navigates back horizontally.
+- Hands-free control ensures a smoother and more interactive presentation experience.
+
+---
+
+Integrated Google and YouTube Voice Search
+- Google Search: Perform quick web searches by speaking your query.
+- YouTube Search: Open and search for videos directly on YouTube using voice commands.
+
+---
+
+Screenshot Command
+- Capture your desktop screen instantly with a voice command. This feature is particularly useful during presentations or online meetings.
+  
+---
+
+
+Technical Highlights:
+
+Developed with Python, leveraging libraries like:
+
+- Tkinter & ttkbootstrap: For creating the graphical user interface.
+- SpeechRecognition: For processing and interpreting voice commands.
+- PyAutoGUI: For automating keyboard and mouse controls.
+
+User-Friendly Interface:
+<p>The intuitive GUI makes the application accessible for all types of users, even those with minimal technical knowledge.</p>
+
+
+---
+
+Use Cases:
+
+- Educators: Enhance lectures with seamless slide navigation and quick access to online resources.
+- Professionals: Deliver impactful presentations with minimal manual interaction.
+- Students: Simplify group presentations and academic projects.
+- Content Creators: Use voice commands to manage slides or access online content while recording.
+
+
+---
+This Presentation and Slide Controller stands out as a versatile, time-saving tool that integrates voice control and productivity features into one compact application, making it a must-have for modern-day multitaskers!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
